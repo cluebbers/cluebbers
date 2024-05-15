@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Christopher
-- 👀 I’m interested in switching my carreer to Data Science 
-- 🌱 I’m currently learning Deep Learning for Natural language Processing
-- 📫 Write me at [LinkedIn](https://www.linkedin.com/in/christopher-luebbers/)
+Data Scientist and MSc student in Applied Data Science at the University of Göttingen. Specializing in high-performance data analytics and natural language processing. Passionate about advancing data science methodologies.
