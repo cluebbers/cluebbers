@@ -40,7 +40,7 @@ Feel free to reach out to me for collaboration, questions, or any interesting di
 
 - **Email**: c.luebbers@stud.uni-goettingen.de
 - **LinkedIn**: [Christopher L. Luebbers](https://www.linkedin.com/in/christopher-luebbers/)
-- **GitHub**: [cluebbers](https://github.com/cluebbers)
+- **Datacamp**: [christopherluebbers]https://www.datacamp.com/portfolio/christopherluebbers)
 
 ## Get Involved
 
