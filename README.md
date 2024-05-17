@@ -13,10 +13,10 @@ Hello! I'm Christopher L. Luebbers, a researcher specializing in deep learning, 
 
 ## Featured Projects
 
-### [HPDA_with_R](https://github.com/yourusername/HPDA_with_R)
+### [HPDA_with_R](https://github.com/cluebbers/HPDA_with_R)
 A comprehensive exploration of using R for high-performance data analytics, covering memory management, GPU computing, parallel processing, and comparative analysis with Python. Includes benchmarks, case studies, and code examples.
 
-### [Meh-Tricks: Towards Reproducible Results in NLP](https://github.com/yourusername/Meh-Tricks-NLP-Reproducibility)
+### [Meh-Tricks: Towards Reproducible Results in NLP](https://github.com/cluebbers/Meh-Tricks-NLP-Reproducibility)
 Investigates the reproducibility of METEOR, BLEU, and ROUGE scores in NLP research. Includes a systematic literature review, software validation testing, and code for analyzing evaluation protocols and packages.
 
 ### [DeepNLP_SS23](https://github.com/cluebbers/deepnlp-ss23)
