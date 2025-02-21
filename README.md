@@ -1,6 +1,4 @@
-# Welcome to My GitHub Profile!
-
-## About Me
+# Hello, I am Christopher L.
 
 I use high-performance computing (HPC) and machine learning to develop more robust and trustworthy AI systems. My work covers paraphrase generation, evaluation metrics, and HPC-based data analytics, aiming to strengthen AI safety and reliability.
 
